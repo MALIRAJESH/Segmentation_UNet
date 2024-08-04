@@ -29,8 +29,6 @@ The lung cancer segmentation model is built using the UNET architecture, incorpo
 Sigmoid activation function makes sure that mask pixels are in [0, 1] range. The detailed methodology and code implementation can be found in the provided Jupyter Notebook.
 The model's performance metrics and visualized segmentation outputs are detailed in the Jupyter Notebook. The model is trained for 8 epochs.
 
-
-# Clone this repository.
 Follow the instructions in the Jupyter Notebook (file.ipynb) to set up the environment and preprocess the data.
 Execute the code cells in the notebook to train the model or perform inference.
 
